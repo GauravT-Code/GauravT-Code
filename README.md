@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauravT-Code
+- 👋 Hi, I’m Gaurav T.
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning numpy nad pandas
 - 💞️ I’m looking to collaborate on data science projects
